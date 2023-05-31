@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.exe
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.deps.json
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.runtimeconfig.json
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.dll
+C:\Users\Gassín\source\repos\radio\radio\bin\Debug\netcoreapp3.1\radio.pdb
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.csproj.AssemblyReference.cache
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.dll
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.pdb
+C:\Users\Gassín\source\repos\radio\radio\obj\Debug\netcoreapp3.1\radio.genruntimeconfig.cache

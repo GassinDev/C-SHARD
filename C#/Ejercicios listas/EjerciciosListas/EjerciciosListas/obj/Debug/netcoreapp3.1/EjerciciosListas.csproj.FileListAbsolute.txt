@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.exe
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.deps.json
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.runtimeconfig.json
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.dll
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\bin\Debug\netcoreapp3.1\EjerciciosListas.pdb
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.dll
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.pdb
+C:\Users\Gassín\Desktop\Ejercicios listas\EjerciciosListas\EjerciciosListas\obj\Debug\netcoreapp3.1\EjerciciosListas.genruntimeconfig.cache

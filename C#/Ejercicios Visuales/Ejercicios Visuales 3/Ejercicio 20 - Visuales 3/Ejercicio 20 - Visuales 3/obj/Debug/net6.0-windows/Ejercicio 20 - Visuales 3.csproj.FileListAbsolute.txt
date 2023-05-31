@@ -1,0 +1,34 @@
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.exe
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.deps.json
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.runtimeconfig.json
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.dll
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.pdb
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio_20___Visuales_3.Form1.resources
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.dll
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\refint\Ejercicio 20 - Visuales 3.dll
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.pdb
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.genruntimeconfig.cache
+C:\Users\Juan\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\ref\Ejercicio 20 - Visuales 3.dll
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.exe
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.deps.json
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.runtimeconfig.json
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.dll
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\bin\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.pdb
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio_20___Visuales_3.Form1.resources
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.dll
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\refint\Ejercicio 20 - Visuales 3.dll
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.pdb
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\Ejercicio 20 - Visuales 3.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Ejercicios Visuales 3\Ejercicio 20 - Visuales 3\Ejercicio 20 - Visuales 3\obj\Debug\net6.0-windows\ref\Ejercicio 20 - Visuales 3.dll

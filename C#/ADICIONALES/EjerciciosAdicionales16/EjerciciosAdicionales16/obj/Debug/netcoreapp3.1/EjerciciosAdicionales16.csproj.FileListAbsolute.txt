@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\bin\Debug\netcoreapp3.1\EjerciciosAdicionales16.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales16\EjerciciosAdicionales16\obj\Debug\netcoreapp3.1\EjerciciosAdicionales16.genruntimeconfig.cache

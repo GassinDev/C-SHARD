@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.exe
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.deps.json
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.runtimeconfig.json
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.dll
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\bin\Debug\netcoreapp3.1\Preguntas.pdb
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.csproj.AssemblyReference.cache
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.dll
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.pdb
+C:\Users\Gassín\source\repos\Preguntas\Preguntas\obj\Debug\netcoreapp3.1\Preguntas.genruntimeconfig.cache

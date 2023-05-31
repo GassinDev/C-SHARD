@@ -1,0 +1,14 @@
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.exe
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.deps.json
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.runtimeconfig.json
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.dll
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\bin\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.pdb
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.dll
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.pdb
+C:\Users\Juan\Desktop\Ejercicio-ObjetosClases-Hora\Ejercicio-ObjetosClases-Hora\obj\Debug\netcoreapp3.1\Ejercicio-ObjetosClases-Hora.genruntimeconfig.cache

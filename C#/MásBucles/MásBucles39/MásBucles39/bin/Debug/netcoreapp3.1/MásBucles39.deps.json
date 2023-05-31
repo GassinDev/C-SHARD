@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MásBucles39/1.0.0": {
+        "runtime": {
+          "MásBucles39.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MásBucles39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

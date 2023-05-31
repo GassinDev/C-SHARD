@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.csproj.AssemblyReference.cache
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.exe
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.deps.json
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.runtimeconfig.json
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.dll
+C:\Users\Gassín\source\repos\SUMA\SUMA\bin\Debug\netcoreapp3.1\SUMA.pdb
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.dll
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.pdb
+C:\Users\Gassín\source\repos\SUMA\SUMA\obj\Debug\netcoreapp3.1\SUMA.genruntimeconfig.cache

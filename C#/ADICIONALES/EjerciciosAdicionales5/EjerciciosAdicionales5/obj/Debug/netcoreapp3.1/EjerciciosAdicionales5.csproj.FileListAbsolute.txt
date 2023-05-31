@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\bin\Debug\netcoreapp3.1\EjerciciosAdicionales5.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales5\EjerciciosAdicionales5\obj\Debug\netcoreapp3.1\EjerciciosAdicionales5.genruntimeconfig.cache

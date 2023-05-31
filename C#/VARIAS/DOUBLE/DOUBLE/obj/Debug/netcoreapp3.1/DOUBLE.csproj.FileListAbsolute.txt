@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.exe
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.deps.json
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.runtimeconfig.json
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.dll
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\bin\Debug\netcoreapp3.1\DOUBLE.pdb
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.csproj.AssemblyReference.cache
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.dll
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.pdb
+C:\Users\Gassín\source\repos\DOUBLE\DOUBLE\obj\Debug\netcoreapp3.1\DOUBLE.genruntimeconfig.cache

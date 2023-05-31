@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funcionesa4/1.0.0": {
+        "runtime": {
+          "Funcionesa4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funcionesa4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

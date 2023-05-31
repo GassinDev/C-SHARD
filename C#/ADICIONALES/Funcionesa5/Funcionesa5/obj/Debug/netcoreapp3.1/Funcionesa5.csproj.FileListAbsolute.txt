@@ -1,0 +1,14 @@
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.exe
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.deps.json
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.runtimeconfig.json
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.dll
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\bin\Debug\netcoreapp3.1\Funcionesa5.pdb
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.csproj.AssemblyReference.cache
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.dll
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.pdb
+C:\Users\Jesus\source\repos\Funcionesa5\Funcionesa5\obj\Debug\netcoreapp3.1\Funcionesa5.genruntimeconfig.cache

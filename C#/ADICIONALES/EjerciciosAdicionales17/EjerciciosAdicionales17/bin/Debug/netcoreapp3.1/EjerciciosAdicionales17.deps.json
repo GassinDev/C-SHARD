@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjerciciosAdicionales17/1.0.0": {
+        "runtime": {
+          "EjerciciosAdicionales17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjerciciosAdicionales17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

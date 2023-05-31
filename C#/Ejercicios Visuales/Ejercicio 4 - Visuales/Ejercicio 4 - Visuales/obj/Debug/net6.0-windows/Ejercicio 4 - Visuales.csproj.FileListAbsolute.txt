@@ -1,0 +1,17 @@
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\bin\Debug\net6.0-windows\Ejercicio 4 - Visuales.exe
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\bin\Debug\net6.0-windows\Ejercicio 4 - Visuales.deps.json
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\bin\Debug\net6.0-windows\Ejercicio 4 - Visuales.runtimeconfig.json
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\bin\Debug\net6.0-windows\Ejercicio 4 - Visuales.dll
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\bin\Debug\net6.0-windows\Ejercicio 4 - Visuales.pdb
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio_4___Visuales.Form1.resources
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.csproj.GenerateResource.cache
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.dll
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\refint\Ejercicio 4 - Visuales.dll
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.pdb
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\Ejercicio 4 - Visuales.genruntimeconfig.cache
+C:\Users\Gassín\Desktop\EJERCICIOS VISUALES\Ejercicio 4 - Visuales\Ejercicio 4 - Visuales\obj\Debug\net6.0-windows\ref\Ejercicio 4 - Visuales.dll

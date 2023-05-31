@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.exe
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.deps.json
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.runtimeconfig.json
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.dll
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\bin\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.pdb
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.dll
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.pdb
+C:\Users\Gassín\Desktop\Ejercicio-ClasesObjetos-ProfesorTribunal\Ejercicio-ClasesObjetos-ProfesorTribunal\obj\Debug\netcoreapp3.1\Ejercicio-ClasesObjetos-ProfesorTribunal.genruntimeconfig.cache

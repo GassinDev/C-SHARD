@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.exe
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.deps.json
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.runtimeconfig.json
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.dll
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\bin\Debug\netcoreapp3.1\BucleWhile21.pdb
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.AssemblyInfo.cs
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.dll
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.pdb
+C:\Users\usuario\Desktop\BucleWhile21\BucleWhile21\obj\Debug\netcoreapp3.1\BucleWhile21.genruntimeconfig.cache

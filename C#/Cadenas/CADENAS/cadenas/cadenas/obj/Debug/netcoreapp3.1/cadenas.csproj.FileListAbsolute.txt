@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.exe
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.deps.json
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.json
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\bin\Debug\netcoreapp3.1\cadenas.pdb
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.dll
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.pdb
+C:\Users\Gassín\Desktop\CADENAS\cadenas\cadenas\obj\Debug\netcoreapp3.1\cadenas.genruntimeconfig.cache

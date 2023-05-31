@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\bin\Debug\netcoreapp3.1\EjerciciosAdicionales18.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales18\EjerciciosAdicionales18\obj\Debug\netcoreapp3.1\EjerciciosAdicionales18.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.exe
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.deps.json
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.runtimeconfig.json
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.dll
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\bin\Debug\netcoreapp3.1\BuclesWhile11.pdb
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.dll
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.pdb
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.genruntimeconfig.cache
+C:\Users\Gassín\source\repos\BuclesWhile11\BuclesWhile11\obj\Debug\netcoreapp3.1\BuclesWhile11.csproj.AssemblyReference.cache

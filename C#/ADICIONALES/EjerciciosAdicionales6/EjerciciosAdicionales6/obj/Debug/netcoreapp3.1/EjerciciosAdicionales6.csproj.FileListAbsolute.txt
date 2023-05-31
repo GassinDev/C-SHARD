@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\bin\Debug\netcoreapp3.1\EjerciciosAdicionales6.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.genruntimeconfig.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales6\EjerciciosAdicionales6\obj\Debug\netcoreapp3.1\EjerciciosAdicionales6.csproj.AssemblyReference.cache

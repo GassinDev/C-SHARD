@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EJERCICIOS-CLASES - (COLECCION DE VIDEOJUEGOS)/1.0.0": {
+        "runtime": {
+          "EJERCICIOS-CLASES - (COLECCION DE VIDEOJUEGOS).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJERCICIOS-CLASES - (COLECCION DE VIDEOJUEGOS)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

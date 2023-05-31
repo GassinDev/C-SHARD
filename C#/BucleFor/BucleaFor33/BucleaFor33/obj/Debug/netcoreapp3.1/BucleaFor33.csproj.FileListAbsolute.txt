@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.exe
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.deps.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.runtimeconfig.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.dll
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\bin\Debug\netcoreapp3.1\BucleaFor33.pdb
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.dll
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.pdb
+C:\Users\Gassín\Desktop\Caropetas\LSMG\BucleaFor33\BucleaFor33\obj\Debug\netcoreapp3.1\BucleaFor33.genruntimeconfig.cache

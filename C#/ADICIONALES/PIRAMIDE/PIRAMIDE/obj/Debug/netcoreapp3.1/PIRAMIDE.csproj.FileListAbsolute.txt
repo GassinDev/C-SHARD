@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\bin\Debug\netcoreapp3.1\PIRAMIDE.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\PIRAMIDE\PIRAMIDE\obj\Debug\netcoreapp3.1\PIRAMIDE.genruntimeconfig.cache

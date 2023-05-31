@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.exe
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.deps.json
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.runtimeconfig.json
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.dll
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\bin\Debug\netcoreapp3.1\ExplicaciónClases.pdb
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.dll
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.pdb
+C:\Users\Gassín\Desktop\ExplicaciónClases\ExplicaciónClases\obj\Debug\netcoreapp3.1\ExplicaciónClases.genruntimeconfig.cache

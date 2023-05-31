@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\bin\Debug\netcoreapp3.1\BucleWhile19.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\BucleWhile19\BucleWhile19\obj\Debug\netcoreapp3.1\BucleWhile19.genruntimeconfig.cache

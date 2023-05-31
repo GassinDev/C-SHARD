@@ -1,0 +1,4 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales3\EjerciciosAdicionales3\obj\Debug\netcoreapp3.1\EjerciciosAdicionales3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales3\EjerciciosAdicionales3\obj\Debug\netcoreapp3.1\EjerciciosAdicionales3.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales3\EjerciciosAdicionales3\obj\Debug\netcoreapp3.1\EjerciciosAdicionales3.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\EjerciciosAdicionales3\EjerciciosAdicionales3\obj\Debug\netcoreapp3.1\EjerciciosAdicionales3.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\bin\Debug\netcoreapp3.1\Estructurada08.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\Estructurada08\Estructurada08\obj\Debug\netcoreapp3.1\Estructurada08.genruntimeconfig.cache

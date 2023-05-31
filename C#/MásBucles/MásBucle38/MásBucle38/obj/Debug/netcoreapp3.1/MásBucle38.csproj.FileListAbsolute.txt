@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.exe
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.deps.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.runtimeconfig.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.runtimeconfig.dev.json
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\bin\Debug\netcoreapp3.1\MásBucle38.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.csproj.AssemblyReference.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.AssemblyInfo.cs
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.dll
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.pdb
+C:\Users\juang\Desktop\EJERCICIOS ESTRUCTURADA\MásBucle38\MásBucle38\obj\Debug\netcoreapp3.1\MásBucle38.genruntimeconfig.cache

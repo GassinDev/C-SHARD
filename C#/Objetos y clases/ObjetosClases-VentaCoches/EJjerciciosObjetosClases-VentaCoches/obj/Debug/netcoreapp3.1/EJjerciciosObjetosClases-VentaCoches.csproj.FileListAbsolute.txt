@@ -1,0 +1,14 @@
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.AssemblyInfo.cs
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.exe
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.deps.json
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.runtimeconfig.json
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.runtimeconfig.dev.json
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.dll
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\bin\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.pdb
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.dll
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.pdb
+C:\Users\Juan\Desktop\EJjerciciosObjetosClases-VentaCoches\EJjerciciosObjetosClases-VentaCoches\obj\Debug\netcoreapp3.1\EJjerciciosObjetosClases-VentaCoches.genruntimeconfig.cache

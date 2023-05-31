@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\bin\Debug\net6.0-windows\Ejercicio 7 - Visuales.exe
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\bin\Debug\net6.0-windows\Ejercicio 7 - Visuales.deps.json
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\bin\Debug\net6.0-windows\Ejercicio 7 - Visuales.runtimeconfig.json
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\bin\Debug\net6.0-windows\Ejercicio 7 - Visuales.dll
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\bin\Debug\net6.0-windows\Ejercicio 7 - Visuales.pdb
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio_7___Visuales.Form1.resources
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.dll
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\refint\Ejercicio 7 - Visuales.dll
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.pdb
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\Ejercicio 7 - Visuales.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Ejercicio 7 - Visuales\Ejercicio 7 - Visuales\obj\Debug\net6.0-windows\ref\Ejercicio 7 - Visuales.dll

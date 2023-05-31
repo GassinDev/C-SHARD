@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).exe
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).deps.json
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).runtimeconfig.json
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).dll
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\bin\Debug\netcoreapp3.1\EjerciciosFicheros(4).pdb
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).AssemblyInfo.cs
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).dll
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).pdb
+C:\Users\Gassín\Desktop\EjerciciosFicheros(4)\EjerciciosFicheros(4)\obj\Debug\netcoreapp3.1\EjerciciosFicheros(4).genruntimeconfig.cache

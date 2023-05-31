@@ -1,0 +1,14 @@
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.exe
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.deps.json
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.runtimeconfig.json
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.runtimeconfig.dev.json
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.dll
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\bin\Debug\netcoreapp3.1\BucleWhile17.pdb
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.AssemblyInfoInputs.cache
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.AssemblyInfo.cs
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.csproj.CoreCompileInputs.cache
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.dll
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.pdb
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.genruntimeconfig.cache
+C:\Users\juang\Desktop\PROGRAMACIÓN\BUCLE WHILE\BucleWhile17\BucleWhile17\obj\Debug\netcoreapp3.1\BucleWhile17.csproj.AssemblyReference.cache

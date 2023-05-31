@@ -1,0 +1,14 @@
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.exe
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.deps.json
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.runtimeconfig.json
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.runtimeconfig.dev.json
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.dll
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\bin\Debug\netcoreapp3.1\BucleFor27.pdb
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.csproj.AssemblyReference.cache
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.AssemblyInfoInputs.cache
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.AssemblyInfo.cs
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.dll
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.pdb
+C:\Users\Gassín\source\repos\BucleFor27\BucleFor27\obj\Debug\netcoreapp3.1\BucleFor27.genruntimeconfig.cache

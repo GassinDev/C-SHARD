@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.exe
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.deps.json
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.runtimeconfig.json
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.dll
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\bin\Debug\netcoreapp3.1\Funcionesa12.pdb
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.dll
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.pdb
+C:\Users\Jesus\source\repos\Funcionesa12\Funcionesa12\obj\Debug\netcoreapp3.1\Funcionesa12.genruntimeconfig.cache

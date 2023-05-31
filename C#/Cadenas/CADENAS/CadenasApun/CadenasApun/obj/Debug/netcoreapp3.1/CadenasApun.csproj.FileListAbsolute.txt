@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.exe
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.deps.json
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.runtimeconfig.json
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.dll
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\bin\Debug\netcoreapp3.1\CadenasApun.pdb
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.dll
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.pdb
+C:\Users\Gassín\Desktop\CADENAS\CadenasApun\CadenasApun\obj\Debug\netcoreapp3.1\CadenasApun.genruntimeconfig.cache

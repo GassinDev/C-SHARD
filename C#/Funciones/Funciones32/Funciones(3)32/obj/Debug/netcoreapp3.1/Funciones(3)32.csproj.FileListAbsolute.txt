@@ -1,0 +1,14 @@
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.exe
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.deps.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.runtimeconfig.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.dll
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\bin\Debug\netcoreapp3.1\Funciones(3)32.pdb
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.csproj.AssemblyReference.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.dll
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.pdb
+C:\Users\Gassín\Desktop\Caropetas\LSMG\Funciones(3)32\Funciones(3)32\obj\Debug\netcoreapp3.1\Funciones(3)32.genruntimeconfig.cache

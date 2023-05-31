@@ -1,0 +1,13 @@
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.exe
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.deps.json
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.runtimeconfig.json
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.runtimeconfig.dev.json
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.dll
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\bin\Debug\netcoreapp3.1\BucleFor24.pdb
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.AssemblyInfoInputs.cache
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.AssemblyInfo.cs
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.csproj.CoreCompileInputs.cache
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.dll
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.pdb
+C:\Users\Gassín\Desktop\LSMG\BucleFor24\BucleFor24\obj\Debug\netcoreapp3.1\BucleFor24.genruntimeconfig.cache
